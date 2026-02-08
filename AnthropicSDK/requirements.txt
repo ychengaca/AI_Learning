@@ -1,0 +1,16 @@
+# Anthropic SDK Learning - Requirements
+# Install with: pip install -r requirements.txt
+
+# Core SDK
+anthropic>=0.39.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: For advanced examples
+httpx>=0.25.0
+Pillow>=10.0.0
